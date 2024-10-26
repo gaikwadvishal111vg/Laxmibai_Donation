@@ -1,0 +1,15 @@
+Cryptomus use Process
+
+First create account
+Then login
+Read All Documentry as you wish if interested to get deeply knowledge.
+Click on Business Button
+Click on Merchants (Manage Your merchants)
+Create new Merchants 
+get name on merchants as your project name or etc.
+click on created merchant.
+click on merchant Setting.
+(Here you will be display API integration information)
+click on leave a request
+you will be given you three option which type of websit making or want
+you choose second meta data and click on that option he provide you a meta link that copy the link and peast your frontend file index.html after title tag. 
